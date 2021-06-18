@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/custom-nested-list-component/static/css/main.00ab9f38.chunk.css",
+    "main.js": "/custom-nested-list-component/static/js/main.cf532fc7.chunk.js",
+    "main.js.map": "/custom-nested-list-component/static/js/main.cf532fc7.chunk.js.map",
+    "runtime-main.js": "/custom-nested-list-component/static/js/runtime-main.4bfa4fc2.js",
+    "runtime-main.js.map": "/custom-nested-list-component/static/js/runtime-main.4bfa4fc2.js.map",
+    "static/js/2.f6bd62e9.chunk.js": "/custom-nested-list-component/static/js/2.f6bd62e9.chunk.js",
+    "static/js/2.f6bd62e9.chunk.js.map": "/custom-nested-list-component/static/js/2.f6bd62e9.chunk.js.map",
+    "static/js/3.93e7dcea.chunk.js": "/custom-nested-list-component/static/js/3.93e7dcea.chunk.js",
+    "static/js/3.93e7dcea.chunk.js.map": "/custom-nested-list-component/static/js/3.93e7dcea.chunk.js.map",
+    "index.html": "/custom-nested-list-component/index.html",
+    "static/css/main.00ab9f38.chunk.css.map": "/custom-nested-list-component/static/css/main.00ab9f38.chunk.css.map",
+    "static/js/2.f6bd62e9.chunk.js.LICENSE.txt": "/custom-nested-list-component/static/js/2.f6bd62e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bfa4fc2.js",
+    "static/js/2.f6bd62e9.chunk.js",
+    "static/css/main.00ab9f38.chunk.css",
+    "static/js/main.cf532fc7.chunk.js"
+  ]
+}
